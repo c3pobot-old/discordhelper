@@ -1,0 +1,22 @@
+{
+  "name": "discordhelper",
+  "version": "1.0.0",
+  "description": "discord worker helper cmds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/c3po-modules/discordhelper.git"
+  },
+  "author": "scuba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/c3po-modules/discordhelper/issues"
+  },
+  "homepage": "https://gitlab.com/c3po-modules/discordhelper#readme",
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  }
+}
